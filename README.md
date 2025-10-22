@@ -55,9 +55,9 @@ The final dashboard (sale dashboard analysis.pbix) provides a multi-page, intera
 Executive Summary: High-level KPIs, Revenue vs. Cost trends, and overall growth metrics.
 
 Product Performance: Ranked tables and charts to identify top-selling and low-performing products.
-"C:\Users\saim khan\OneDrive\Pictures\Screenshots\Screenshot 2025-10-22 204453.png" 
-"C:\Users\saim khan\OneDrive\Pictures\Screenshots\Screenshot 2025-10-22 204557.png"
 
 Customer Analysis: Segmentation by customer name and channel (Wholesale/Distributor) to highlight high-value clients.
 
 Geographical View: Map visuals utilizing the Regions.csv data to show sales concentration and performance by city and region.
+
+https://github.com/SaimKhan-05/Sales-Analysis-/blob/main/Sales%20Analysis.png 
