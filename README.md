@@ -61,3 +61,4 @@ Customer Analysis: Segmentation by customer name and channel (Wholesale/Distribu
 Geographical View: Map visuals utilizing the Regions.csv data to show sales concentration and performance by city and region.
 
 https://github.com/SaimKhan-05/Sales-Analysis-/blob/main/Sales%20Analysis.png 
+https://github.com/SaimKhan-05/Sales-Analysis-/blob/main/Sales%20Analysis%202.png
