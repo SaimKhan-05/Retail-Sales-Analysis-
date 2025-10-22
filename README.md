@@ -59,5 +59,6 @@ Product Performance: Ranked tables and charts to identify top-selling and low-pe
 Customer Analysis: Segmentation by customer name and channel (Wholesale/Distributor) to highlight high-value clients.
 
 Geographical View: Map visuals utilizing the Regions.csv data to show sales concentration and performance by city and region.
-Sales Analysis.png
-https://github.com/SaimKhan-05/Sales-Analysis-/blob/bddbaef1e6fc9325a28020e7e1479c063e91b1aa/Sales%20Analysis%202.png 
+<img width="1344" height="750" alt="Sales Analysis" src="https://github.com/user-attachments/assets/38470a18-8271-43fd-80b2-3e8349d6ba76" />
+<img width="1332" height="740" alt="Sales Analysis 2" src="https://github.com/user-attachments/assets/4ed5750e-e594-44dd-aa65-22fdc50ebc08" />
+
